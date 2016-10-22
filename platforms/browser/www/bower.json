@@ -1,0 +1,25 @@
+{
+  "name": "pokehunter",
+  "authors": [
+    "Daniel Montoya <dsmontoyam@gmail.com>"
+  ],
+  "description": "Go plan you hunt, find nests.",
+  "main": "index.html",
+  "keywords": [
+    "pokemon",
+    "go"
+  ],
+  "license": "MIT",
+  "homepage": "pokehunter.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.1"
+  }
+}
